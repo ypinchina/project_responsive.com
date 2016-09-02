@@ -1,0 +1,13 @@
+# enditorconfig.org
+
+root = true
+
+[*]
+charset = utf-8
+indent-size = 4
+indent-style = space
+insert-final-newline = true
+trim-trailing-whitespace = true
+
+[*.md]
+trim-trailing-whitespace = false
