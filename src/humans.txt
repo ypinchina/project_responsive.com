@@ -1,0 +1,15 @@
+/* TEAM */
+    Founder & Developer: Yp
+    Contact: 346784780 [at] qq.com
+
+
+    From: ShenZhen, GuangDong, China
+    University: Beijing Institute of Technology
+    Degree: Bachelor
+
+/* THANKS */
+    Parent and Friend
+
+
+<!--[if lte IE 8]>
+<![endif]-->
