@@ -11,7 +11,7 @@ html{
 
 ::selection{
     background-color: #b3d4fc;
-    text-shadow: none;/*被选中的效果*/
+    text-shadow: none;
 }
 
 ul{
@@ -75,10 +75,10 @@ li{
 
 /*清除浮动*/
     /*可用display：flex来代替浮动，但是IE9以下兼容性不好*/
-.clearfix:before,/*为了防止出现margin-bottom与margin-top相接的位置发生顶部空白塌陷*/
+.clearfix:before,
 .clearfix:after{
     content: " ";
-    display: table;/*用来直接触发BFC*/
+    display: table;
 }
 
 .clearfix:after{
